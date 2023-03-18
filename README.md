@@ -3,6 +3,7 @@
 Test Jenkins9 config test
 Test Jenkins 03/23
 test new jnk 18/3/23
+updating REDDME agin for nfs update 18/3/23
 
 ## Introduction
 This is a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
